@@ -1,0 +1,20 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-image: url(img/Background.jpg);
+    background-size: 100%;
+}
+.error{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+img{
+    width: 800px;
+}
+p{
+    color: rgb(100, 100, 100);
+    font-family: sans-serif;
+    text-align: center;
+}
